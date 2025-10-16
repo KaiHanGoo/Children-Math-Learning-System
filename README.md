@@ -1,4 +1,4 @@
-Steps to run the Children Math Learning System
+# Steps to run the Children Math Learning System
 
 1) Open command prompt
 
