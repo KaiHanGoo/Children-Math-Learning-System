@@ -20,5 +20,5 @@
    
    to run the system
 
-*Take Note*
+*Take Note*:
 If you want to enter a new username you need to remove the username.txt file in the folder.
